@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b9b0f12-a9da-4829-b0ac-f2bf7be40301" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gwt_user.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="GwtCompilerConfiguration">
+    <show-output>
+      <module name="opentsdb-dev" />
+    </show-output>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/net/opentsdb/core/Tags.java" />
+        <option value="$PROJECT_DIR$/src/java/net/opentsdb/core/Const.java" />
+        <option value="$PROJECT_DIR$/src/java/net/opentsdb/core/Internal.java" />
+        <option value="$PROJECT_DIR$/src/java/net/opentsdb/core/TSDB.java" />
+        <option value="$PROJECT_DIR$/src/java/net/opentsdb/tsd/PutDataPointRpc.java" />
+        <option value="$PROJECT_DIR$/src/java/net/opentsdb/core/RowSeq.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1537" />
+    <option name="height" value="912" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="opentsdb-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opentsdb-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opentsdb-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opentsdb-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opentsdb-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opentsdb-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opentsdb-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opentsdb-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="opentsdb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opentsdb-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opentsdb-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="opentsdb" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opentsdb-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opentsdb-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tsd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gwt/build/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.QueryStringExample">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="QueryStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.opentsdb.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="net.opentsdb.examples.QueryStringExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="opentsdb-dev" />
+      <envs />
+    </configuration>
+    <configuration name="TSDMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.opentsdb.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="net.opentsdb.tools.TSDMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="opentsdb-dev" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.TSDMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.QueryStringExample" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.QueryStringExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TSDMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9b0f12-a9da-4829-b0ac-f2bf7be40301" name="Default" comment="" />
+      <created>1519194895930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519194895930</updated>
+      <workItem from="1519194967120" duration="11263000" />
+      <workItem from="1519210170993" duration="25000" />
+      <workItem from="1519210199604" duration="45000" />
+      <workItem from="1519269289328" duration="5923000" />
+      <workItem from="1519565567320" duration="993000" />
+      <workItem from="1519651947830" duration="1575000" />
+      <workItem from="1519653549737" duration="9000" />
+      <workItem from="1520139923197" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20493000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46313065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988358" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24580255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25654802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32341528" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/RowSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="248" column="0" lean-forward="true" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <folding>
+            <element signature="e#11581#11582#0" expanded="true" />
+            <element signature="e#11618#11619#0" expanded="true" />
+            <element signature="e#11677#11678#0" expanded="true" />
+            <element signature="e#11722#11723#0" expanded="true" />
+            <element signature="e#11849#11850#0" expanded="true" />
+            <element signature="e#11889#11890#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12152#12153#0" expanded="true" />
+            <element signature="e#12191#12192#0" expanded="true" />
+            <element signature="e#12231#12232#0" expanded="true" />
+            <element signature="e#12402#12403#0" expanded="true" />
+            <element signature="e#12442#12443#0" expanded="true" />
+            <element signature="e#13353#13354#0" expanded="true" />
+            <element signature="e#13371#13372#0" expanded="true" />
+            <element signature="e#13407#13408#0" expanded="true" />
+            <element signature="e#13442#13443#0" expanded="true" />
+            <element signature="e#13733#13734#0" expanded="true" />
+            <element signature="e#13818#13819#0" expanded="true" />
+            <element signature="e#23367#23368#0" expanded="true" />
+            <element signature="e#23403#23404#0" expanded="true" />
+            <element signature="e#23440#23441#0" expanded="true" />
+            <element signature="e#23514#23515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../opentsdb/third_party/hbase/asynchbase-1.8.0.jar!/org/hbase/async/Bytes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <marker date="1518875403467" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518875403467" expanded="false" signature="139:562" ph="..." />
+            <marker date="1518875403467" expanded="true" signature="901:906" ph="{}" />
+            <marker date="1518875403467" expanded="true" signature="965:1083" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="1125:1132" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1154:1158" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1212:1219" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1272:1276" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1324:1331" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1361:1365" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1425:1432" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1470:1474" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1524:1531" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1549:1553" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="1616:1695" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="1739:1806" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="1844:1851" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1871:1875" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="1926:2059" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="2106:2113" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2141:2145" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="2204:2211" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2256:2260" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="2306:2313" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2329:2333" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="2392:2547" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="2587:2652" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="2692:2699" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2720:2724" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="2777:3086" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="3134:3141" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3158:3162" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="3223:3586" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="3628:3694" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="3741:3748" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3793:3797" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="3841:3848" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3903:3907" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="3946:3953" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3990:3994" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="4037:4044" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="4086:4090" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="4156:4994" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="5063:5515" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="5561:5753" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="5790:6054" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="6105:6944" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="6993:7265" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="7338:7588" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="7643:7650" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="7693:7697" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="7749:7756" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="7781:7785" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="7843:7964" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="7975:8647" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="8753:9736" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="8838:8847" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="8867:8873" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="8923:8932" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="8967:8973" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="9004:9732" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="9804:9923" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="9827:9834" ph="{}" />
+            <marker date="1518875403467" expanded="false" signature="9878:9887" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="9913:9919" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="132" column="28" lean-forward="false" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+          <folding>
+            <marker date="1509141854000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509141854000" expanded="false" signature="133:1145" ph="..." />
+            <marker date="1509141854000" expanded="true" signature="1526:1531" ph="{}" />
+            <marker date="1509141854000" expanded="true" signature="1578:1616" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="1664:1703" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="1751:1790" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="1826:2013" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2077:2141" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2175:2320" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2554:2690" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2775:3262" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="3065:3228" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="3095:3220" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="3316:3323" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="3339:3343" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="3703:3842" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="3882:3889" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="3910:3914" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="3968:4197" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="4247:4426" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="4489:4674" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="4737:4959" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5011:5222" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5268:5460" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5505:5703" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5750:5938" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="5975:5982" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6014:6018" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6045:6052" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6078:6082" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6122:6129" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6168:6172" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="6176:6194" ph="/**...*/" />
+            <marker date="1509141854000" expanded="false" signature="6263:6270" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6304:6308" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6367:6374" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6436:6440" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6506:6513" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6582:6586" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="6728:6998" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="7046:7831" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="7875:9790" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="7934:9784" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="7992:8003" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8033:8041" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="8139:8199" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="8261:8272" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8304:8312" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="8412:8469" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="8528:8539" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8571:8579" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="8642:8653" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8689:8697" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="8768:8838" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="8915:8978" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="9040:9051" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9072:9080" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="9159:9170" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9201:9209" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="9262:9273" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9306:9314" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="9394:9451" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="9501:9512" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9542:9550" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="9630:9641" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9671:9679" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="9744:9778" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="9801:9914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tsd/client/MetricForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26020#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/TsdbQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tools/TSDMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tsd/client/MetricForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26020#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/PutDataPointRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="109" column="5" lean-forward="false" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tools/TSDMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/IncomingDataPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="121" column="39" lean-forward="false" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/TSDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13680">
+          <caret line="856" column="26" lean-forward="false" selection-start-line="856" selection-start-column="26" selection-end-line="856" selection-end-column="26" />
+          <folding>
+            <element signature="method#addPointInternal#0;class#TSDB#0" expanded="false" />
+            <element signature="e#45192#45193#0" expanded="false" />
+            <element signature="e#45250#45251#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tsd/client/MetricForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26020#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/PutDataPointRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="109" column="5" lean-forward="false" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tsd/client/MetricForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26020#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/IncomingDataPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="121" column="39" lean-forward="false" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/TSDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13680">
+          <caret line="856" column="26" lean-forward="false" selection-start-line="856" selection-start-column="26" selection-end-line="856" selection-end-column="26" />
+          <folding>
+            <element signature="method#addPointInternal#0;class#TSDB#0" expanded="false" />
+            <element signature="e#45192#45193#0" expanded="false" />
+            <element signature="e#45250#45251#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tools/TSDMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/WritableDataPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/mygnuplot.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/mygnuplot.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/WordSplitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/TreeRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/UniqueIdRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/TelnetRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Byte.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../opentsdb/third_party/hbase/asynchbase-1.8.0.jar!/org/hbase/async/HBaseClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="979" column="28" lean-forward="false" selection-start-line="979" selection-start-column="28" selection-end-line="979" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/Tags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="810" column="0" lean-forward="true" selection-start-line="810" selection-start-column="0" selection-end-line="810" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/HttpRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/IncomingDataPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="124" column="25" lean-forward="false" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/RowKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="138" column="21" lean-forward="false" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/utils/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="190" column="17" lean-forward="false" selection-start-line="190" selection-start-column="17" selection-end-line="190" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/RTPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="103" column="12" lean-forward="false" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="203" column="15" lean-forward="false" selection-start-line="203" selection-start-column="15" selection-end-line="203" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/Internal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="924" column="5" lean-forward="true" selection-start-line="924" selection-start-column="5" selection-end-line="924" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../opentsdb/third_party/suasync/async-1.4.0.jar!/com/stumbleupon/async/Deferred.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="102" column="50" lean-forward="false" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/client/DateTimeBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/IncomingDataPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="121" column="39" lean-forward="false" selection-start-line="121" selection-start-column="39" selection-end-line="121" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/TSDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13680">
+          <caret line="856" column="26" lean-forward="false" selection-start-line="856" selection-start-column="26" selection-end-line="856" selection-end-column="26" />
+          <folding>
+            <element signature="method#addPointInternal#0;class#TSDB#0" expanded="false" />
+            <element signature="e#45192#45193#0" expanded="false" />
+            <element signature="e#45250#45251#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tsd/PutDataPointRpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="109" column="5" lean-forward="false" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../opentsdb/third_party/hbase/asynchbase-1.8.0.jar!/org/hbase/async/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="353" column="42" lean-forward="false" selection-start-line="353" selection-start-column="42" selection-end-line="353" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../opentsdb/third_party/hbase/asynchbase-1.8.0.jar!/org/hbase/async/KeyValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/tools/TSDMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/TsdbQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="574" column="16" lean-forward="false" selection-start-line="574" selection-start-column="16" selection-end-line="574" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="132" column="28" lean-forward="false" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+          <folding>
+            <marker date="1509141854000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509141854000" expanded="false" signature="133:1145" ph="..." />
+            <marker date="1509141854000" expanded="true" signature="1526:1531" ph="{}" />
+            <marker date="1509141854000" expanded="true" signature="1578:1616" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="1664:1703" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="1751:1790" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="1826:2013" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2077:2141" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2175:2320" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2554:2690" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="2775:3262" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="3065:3228" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="3095:3220" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="3316:3323" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="3339:3343" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="3703:3842" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="3882:3889" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="3910:3914" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="3968:4197" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="4247:4426" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="4489:4674" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="4737:4959" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5011:5222" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5268:5460" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5505:5703" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="5750:5938" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="5975:5982" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6014:6018" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6045:6052" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6078:6082" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6122:6129" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6168:6172" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="6176:6194" ph="/**...*/" />
+            <marker date="1509141854000" expanded="false" signature="6263:6270" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6304:6308" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6367:6374" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6436:6440" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="6506:6513" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="6582:6586" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="6728:6998" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="7046:7831" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="7875:9790" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="7934:9784" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="7992:8003" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8033:8041" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="8139:8199" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="8261:8272" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8304:8312" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="8412:8469" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="8528:8539" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8571:8579" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="8642:8653" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="8689:8697" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="8768:8838" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="8915:8978" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="9040:9051" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9072:9080" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="9159:9170" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9201:9209" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="9262:9273" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9306:9314" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="9394:9451" ph="{...}" />
+            <marker date="1509141854000" expanded="false" signature="9501:9512" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9542:9550" ph=" }" />
+            <marker date="1509141854000" expanded="false" signature="9630:9641" ph=" { " />
+            <marker date="1509141854000" expanded="false" signature="9671:9679" ph=" }" />
+            <marker date="1509141854000" expanded="true" signature="9744:9778" ph="{...}" />
+            <marker date="1509141854000" expanded="true" signature="9801:9914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../opentsdb/third_party/hbase/asynchbase-1.8.0.jar!/org/hbase/async/Bytes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <marker date="1518875403467" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1518875403467" expanded="false" signature="139:562" ph="..." />
+            <marker date="1518875403467" expanded="true" signature="901:906" ph="{}" />
+            <marker date="1518875403467" expanded="true" signature="965:1083" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="1125:1132" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1154:1158" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1212:1219" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1272:1276" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1324:1331" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1361:1365" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1425:1432" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1470:1474" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="1524:1531" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1549:1553" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="1616:1695" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="1739:1806" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="1844:1851" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="1871:1875" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="1926:2059" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="2106:2113" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2141:2145" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="2204:2211" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2256:2260" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="2306:2313" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2329:2333" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="2392:2547" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="2587:2652" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="2692:2699" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="2720:2724" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="2777:3086" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="3134:3141" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3158:3162" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="3223:3586" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="3628:3694" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="3741:3748" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3793:3797" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="3841:3848" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3903:3907" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="3946:3953" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="3990:3994" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="4037:4044" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="4086:4090" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="4156:4994" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="5063:5515" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="5561:5753" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="5790:6054" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="6105:6944" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="6993:7265" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="7338:7588" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="7643:7650" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="7693:7697" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="7749:7756" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="7781:7785" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="7843:7964" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="7975:8647" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="8753:9736" ph="{...}" />
+            <marker date="1518875403467" expanded="false" signature="8838:8847" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="8867:8873" ph=" }" />
+            <marker date="1518875403467" expanded="false" signature="8923:8932" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="8967:8973" ph=" }" />
+            <marker date="1518875403467" expanded="true" signature="9004:9732" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="9804:9923" ph="{...}" />
+            <marker date="1518875403467" expanded="true" signature="9827:9834" ph="{}" />
+            <marker date="1518875403467" expanded="false" signature="9878:9887" ph=" { " />
+            <marker date="1518875403467" expanded="false" signature="9913:9919" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/core/RowSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <folding>
+            <element signature="e#11581#11582#0" expanded="true" />
+            <element signature="e#11618#11619#0" expanded="true" />
+            <element signature="e#11677#11678#0" expanded="true" />
+            <element signature="e#11722#11723#0" expanded="true" />
+            <element signature="e#11849#11850#0" expanded="true" />
+            <element signature="e#11889#11890#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12152#12153#0" expanded="true" />
+            <element signature="e#12191#12192#0" expanded="true" />
+            <element signature="e#12231#12232#0" expanded="true" />
+            <element signature="e#12402#12403#0" expanded="true" />
+            <element signature="e#12442#12443#0" expanded="true" />
+            <element signature="e#13353#13354#0" expanded="true" />
+            <element signature="e#13371#13372#0" expanded="true" />
+            <element signature="e#13407#13408#0" expanded="true" />
+            <element signature="e#13442#13443#0" expanded="true" />
+            <element signature="e#13733#13734#0" expanded="true" />
+            <element signature="e#13818#13819#0" expanded="true" />
+            <element signature="e#23367#23368#0" expanded="true" />
+            <element signature="e#23403#23404#0" expanded="true" />
+            <element signature="e#23440#23441#0" expanded="true" />
+            <element signature="e#23514#23515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tsd/client/MetricForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26020#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/examples/QueryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/opentsdb/examples/QueryStringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>opentsdb-dev:GWT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>GWT (opentsdb-dev)|GWT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>opentsdb-dev</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gwt-user</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
